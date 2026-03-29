@@ -11,7 +11,7 @@ Transitioning into **Data Science & ML Engineering** — building systems that w
 
 ## What I Do
 
-I started in biomedical engineering — working with EEG signals, medical imaging, and clinical data — and I've been moving steadily toward **end-to-end data and ML engineering**.
+I started in biomedical engineering  working with EEG signals, medical imaging, and clinical data  and I've been moving steadily toward **end-to-end data and ML engineering**.
 
 My focus is on turning research-quality models into reliable, maintainable systems:
 clean pipelines, proper validation, no data leakage, production-ready code.
