@@ -32,7 +32,7 @@ clean pipelines, proper validation, no data leakage, production-ready code.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 **Areas**
-`Deep Learning` · `Medical Data Science` · `RAG` · `Signal Processing` · `Docker`
+`Deep Learning` · `Medical Data Science` · `Signal Processing` · `Docker`
 
 ---
 
